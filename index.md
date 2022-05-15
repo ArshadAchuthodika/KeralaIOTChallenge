@@ -613,7 +613,7 @@ Serial.println(val);// display val’s value
 
 ### Circuit Diagram
 
-![circuit diagram](![image](https://user-images.githubusercontent.com/97792700/168479518-9ac3ddea-2330-4508-955a-af424a2426f5.png))
+![circuit diagram](![image](https://user-images.githubusercontent.com/97792700/168479518-9ac3ddea-2330-4508-955a-af424a2426f5.png)
 
 ### Code
 
