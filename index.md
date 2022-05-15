@@ -770,8 +770,8 @@ delay(1000); // wait for 1s
 ## Project 1
 
 - **Create an automatic night lamp model using LDR and LED**
-
-### program
+- 
+ ### program
 
 ```C++
 int potpin=7;
@@ -799,6 +799,7 @@ void loop()
 ### Output
 
 <a href="https://www.youtube.com/shorts/Kgd1MVjgpkM" target="__blank" >View video of Result</a>
+
 ## Project 2
 
 _ **Create a Digital Dice using 7 Segment Display and Push Button**
@@ -917,7 +918,3 @@ void loop()
 ### Output
 
 <a href="https://www.youtube.com/shorts/Hbkg5ccz6JY" >View video of Result</a>
-
-
-
-
